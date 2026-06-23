@@ -1,0 +1,869 @@
+customer_id,age,income,province,employment_type
+C01434,68,,Ontario,part-time
+C01841,74,64184.38,Quebec,Unemployed
+C01252,37,66364.34, Ontario ,Contract
+C01698,62,"$102,154.31", Quebec ,Full-time
+C01147,43,30056 CAD,Ontario,Self-employed
+C01285,70,55571.04,Quebec,Full-time
+C01596,41,52157.72,Alberta,Full-time
+C01381,63,106555.7,British Columbia,Full-time
+C01124,35,55066.7,Ontario,Full-time
+C01357,71,"72,343",Quebec,Self Employed
+C01607,57,25010.64,Alberta,Part-time
+C01538,59,142341.77,ONTARIO,contract
+C01238,51,68405 CAD,Ontario,Part-time
+C-01264,45,66731.55,Ontario,Full-time
+C01117,38,65274.47,Ontario,Self-employed
+1706,25,56753 CAD,Ont.,Full-time
+C01390,70,66250.59,Ontario,Full-time
+C01502,29,55311.47,Ontario,Full-time
+01294,60,"78,565",ontario,Full-time
+C01495,32,140172.04,Ontario,No job
+C01526,63,81039.7,Ontario,Full-time
+C01728,52,100499.8,Quebec,FT
+C01017,55,92660 CAD,Quebec,Full-time
+ C01647 ,36,"$69,250.14",Ontario,Contract
+C01761,75,25849.15,British Columbia,Unemployed
+C01767,21,54965 USD,QC,Contract
+C-01640,23,46175 CAD,Ontario,Contract
+C01478,150,48497.9,Ontario,Part-time
+C01057,22,48600.69,Ontario,Full-time
+C01593,50,42000.71,QC,Full-time
+C01828,55,50082 USD,ALBERTA,Full Time
+C01615,43,34202.31,Alberta,Self-employed
+C01102,72,195000.49,Ontario,Part-time
+C01237,71,66662.9,Québec,Full-time
+C01207,24,60448.6,Ontario,Full-time
+01458,31,47082.24,British Columbia ,Full-time
+C01681,32,85736.31,Ontario,Full-time
+C01738,54,n/a,quebec,Full-time
+C01160,33,57254.67,Ontario,Part-time
+C01149,66,30937 USD,Alberta,Full-time
+C01261,71,"$188,324.25",Ontario,Contract
+C01269,45,127155.15,Ontario,Contract
+C01022,50,60968.13,Ontario,Unemployed
+C01135,24,48639 CAD,British Columbia,Part-time
+C01053,43,"$60,450.36",Ontario,Self-employed
+C01678,38,59527.67,Ont.,Contract
+ C01491 ,52,45699.2,Quebec,Full-time
+C01730,121,204172.12,Ontario,Full-time
+C01007,57,48737 USD,MANITOBA,Self-employed
+C01830,,34667.12,Ontario,Part-time
+C01446,57,35963.65,Quebec,Part-time
+C01263,70,91541.54,QUEBEC,Full-time
+C01306,61,34995 USD,Ontario,Full-time
+C01619,38,30698 USD,British Columbia,Full-time
+C01823,68,unknown,Manitoba,Part-time
+C01544,44,"64,789",Quebec,Contractor
+C01431,48,51235.48,ontario,Full-time
+C01333,63,"77,347",Alberta,Contract
+C01552,43, 64206 ,MB,self-employed
+01234,73,91532.55,Quebec,Self-employed
+C01280,60,70502.56,British Columbia,Full-time
+C01443,28,127190.55,ON,Contract
+C01293,71,107952.91,Quebec,Full-time
+C01042,39,48107.93,Quebec,Contract
+C01310,63,80770.65,Manitoba,Contract
+C01439,53,29963.1,Ont.,Unemployed
+C01585,24,unknown,Quebec,SELF
+C01506,54,n/a,Ontario,Full Time
+C01075,48, 147564 ,Ontario,Full-time
+C01299,39,66071.79,Quebec,Full-time
+C01318,58,"106,220",Ontario,Contract
+C01505,49,77029.52,British Columbia,Unemployed
+C01349,31,"$79,457.76",Alberta,Part-time
+C01006,27,52853 USD,QUEBEC,Full-time
+C01511,30,61942.57,Alberta,Full-time
+C01744,39, 97152 ,ON,Full-time
+C01701,21,"$60,833.37",British Columbia,Contract
+C01694,150, 181743 ,British Columbia,Full-time
+C01442,70, 34511 ,Alberta,Contract
+C01001,48,95689.2,ON,CONTRACT
+C01800,59,79759 CAD,Ontario,Full-time
+C01686,37,61467.06,Quebec,Part-time
+C01052,22,135316.3,Quebec,Part-time
+1228,25,84507.43,Alberta,Full-time
+C01430,65,71935.39,Ontario,Full-time
+C01122,60,"$46,508.44",Ontario,Self-employed
+C01635,43,63357.03,Ontario,Full-time
+C01743,64,95429 CAD,Alberta,Full-time
+C01675,21,56409.14,BC,Self-employed
+1483,50,"49,520",British Columbia,Full-time
+C01180,36,109333.91,Quebec,Part-time
+C01653,45,45709.11,Ontario,Full-time
+C01104,31,unknown,Quebec,FT
+C01173,25,unknown,Ontario,Full-time
+C01373,23,"$28,843.06",ontario,Full-time
+C01058,0,"$78,322.39",QUEBEC,Full-time
+C01654,58,78442.28,Ontario,Full-time
+C01441,32,82798 CAD,Manitoba,Unemployed
+C01089,0,"$54,276.94",Alberta,PT
+1276,32,38577.04,Ontario,Full-time
+01833,68,"180,673",AB,Full-time
+01601,29,64939.4,Ontario,Full-time
+C01152,53,58519.53,british columbia,Full-time
+C01142,43,41720 USD,British Columbia,PT
+C01467,22,42056.82,Ontario,Full-time
+C01243,68,52765 USD,Ontario,self-employed
+C01741,26,116191.65,Quebec, full-time 
+C01530,33,116564.73,ontario,Full-time
+C-01775,29,81259.82,Alberta,Full-time
+C01200,34,52778 USD,british columbia,Self-employed
+C01475,67,65722.61,British Columbia,Full-time
+C01453,53,"$48,754.14",Ontario,Contract
+C01339,65,130484.86,Alberta,Unemployed
+C01233,60,118803 CAD,Ontario,Full-time
+C01019,66,78162.15,Quebec,Full-time
+C01689,41,61620.06,Ontario,Full-time
+ C01307 ,31,92419.52,ON,Full-time
+C01752,33,"$51,450.59",Ontario,Unemployed
+C01403,48,unknown,Ontario,Contract
+C01275,56,"42,003",Québec,Full-time
+C01212,38,54167 CAD,Quebec,Part-time
+C01213,64,94237 CAD,Manitoba,Unemployed
+C01779,25,117663.52,Ontario,Full-time
+C01174,41,121855.15,Ontario,Part-time
+C01040,64,"81,055",Manitoba,Self Employed
+C01488,32,64342.01,alberta,Self-employed
+C01204,34,35232 USD,Manitoba,Unemployed
+C01219,,74598 USD,ontario,Full Time
+C01168,35,32748.56,British Columbia,Full Time
+C01556,43,"$120,967.24",British Columbia,Full-time
+C01355,47,566377 CAD,Alberta,Self-employed
+C01651,51,52210.23,ontario,Full-time
+1282,26,"71,824",Ontario,Self-employed
+C01003,72,"$101,332.48",Ontario,Contract
+C01031,37,52381.91,Quebec,Full-time
+C01536,48,37710.46,Ontario,Self-employed
+C01254,36,82264.1,Alberta,Part-time
+C01332,28,154246.57,Ontario,Part-time
+C01657,30,97328.38,Quebec,Self employed 
+C01369,32,66034 USD,Ontario,CONTRACT
+C01304,66,35822.57,Quebec,Part-time
+C01432,67,92117.72,British Columbia,Full-time
+C01198,50,80902.26,Quebec,Contract
+C01367,37,118880.84,Ontario,Full-time
+C01316,-5,84483 CAD,Ontario,Full-time
+C01673,75,66370.23,Ontario,Full-time
+C01259,23,36834.1,Alberta,Self-employed
+C01469,30,103455.98,AB,Unemployed
+C01771,41,47203.14,B.C.,Full-time
+C01799,31,78447.52,Ontario,Contract
+cust_01221,,79996 CAD,Alberta,Full-time
+C01786,74,42903.59,Alberta,Unemployed
+C01524,26,29616 CAD,ON,Self-employed
+01687,34,336202.8,QUEBEC,Full-time
+C01599,72,23695 CAD,Ontario,part-time
+01072,28,59611 USD,BC,Full-time
+C01578,65,92318.38,MANITOBA,Full-time
+C01061,47,"$94,925.37",British Columbia,Part-time
+C01106,25,69075.48,Ontario, full-time 
+C01119,56,114838.15,Ontario,Self-employed
+C01583,60, 473872 ,Ontario,Part Time
+C01550,67,85609.7,Manitoba,Full-time
+C01486,59,127353 CAD,Ontario,Self-employed
+ C01115 ,42,,Ontario,Full-time
+C01077,69,unknown,Ontario,PT
+C01361,72,56302.84,Ontario,Part-time
+C01844,41,140462.21,Ontario,Part-time
+C01084,61,65116.54,Ontario,Self-employed
+C01793,62,115757.84,Alberta,Full-time
+C01133,54,41680.24,Manitoba,Unemployed
+C01109,24,124645 CAD,Ontario,Full-time
+C01199,28,"$107,368.41",Quebec,Part-time
+1083,47,50800.74,Ontario,Full-time
+C01045,53,106226.39,Ont.,Contract
+C01816,62,39307.15,BC,Self-employed
+C01493,47,43118.84,Ont.,Self-employed
+C01445,28,60344.08,British Columbia ,Full-time
+C01783,70,"94,066",Ontario,Full-time
+C01247,46,78128.61,Quebec,Full-time
+1283,42,99453.99,British Columbia,Full-time
+C01301,66,524264.25, Alberta ,Self-employed
+C01114,57,73671 USD,Ontario,Contract
+C01286,63,57871.49,Ontario,Contract
+C01507,43,,QUEBEC,Unemployed
+C01484,47,, Alberta ,Unemployed
+C01375,61,65803.46,Alberta,Unemployed
+C01401,44,"$93,767.38",Ontario,Full-time
+C01165,47,106271 CAD,Quebec,Full-time
+C01024,63, 88264 ,Quebec,Full-time
+C01508,55,162389.68, Quebec ,Unemployed
+C01824,63,,Ontario,Full-time
+C01350,22,121398.71,manitoba,Full-time
+C01492,69,83874.67,Ontario,Self-employed
+C01428,23,50359.1,British Columbia,Full-time
+C01568,21,"29,336",quebec,Contract
+C01480,73,41616.62,Ontario,Full-time
+C01412,60,49609.41,Ontario,Full-time
+C01331,75,113702.33,British Columbia ,Self-employed
+cust_01337,68,87744.62,Ontario,Full-time
+C01500,45,58042.8,Ontario,Full-time
+01634,23,33482.74,Quebec,Self Employed
+C01753,49,"$95,681.68",Ontario,Unemployed
+C01175,34,69942.3,Quebec,Self-employed
+C01487,58,"84,576",Quebec,Full-time
+C01450,35,80267 CAD,Ontario,Part-time
+C01244,43, 75303 ,Ontario, full-time 
+C01322,67,26822.34,Ontario,Part-time
+C01617,42,41755.39,Ontario,Full-time
+1185,22,79458.79,british columbia,Self-employed
+01648,46,"24,243",Ont.,Full-time
+C01777,34,"117,298",British Columbia,Full-time
+C01459,72,77983.22,Ontario,Part-time
+C01674,49,70544.04,British Columbia,Full-time
+C01416,71,48422 CAD,Ontario,Full-time
+C01769,47,"$53,022.57",Ontario,Full Time
+C01426,63,100116 USD,ONTARIO,Full-time
+C01667,58,56092.47,Ontario,Full Time
+C01188,,44758.52,Quebec,Full-time
+C01148,41,58736.19,Quebec,Full-time
+cust_01163,29,"$146,667.07",Alberta,Full-time
+cust_01835,42,76837.68,British Columbia,Part-time
+C01030,38,43501.52, Quebec ,Self-employed
+C01314,47,176864.9,Ontario,SELF
+C01193,48,129595.85,Ont.,Self-employed
+ C01166 ,66,"$82,763.67",Ontario,Unemployed
+C01531,22,"93,325",British Columbia,Self-employed
+C01790,73,,British Columbia,Unemployed
+C01745,34,64290.06,Quebec,Part-time
+C01144,32,"168,889",Ontario,Full-time
+C01622,41,35337 CAD,Manitoba,Full-time
+C01410,41,38510.59,QUEBEC,Full-time
+C-01091,75,59851.71,British Columbia,Self-employed
+C01560,53,82907.22,Ontario,FT
+C01815,73,103440.27,Alberta,Full-time
+C01499,25,97738.99,Ontario,Part-time
+C01440,59,97992.93,Ontario,Full-time
+C01843,25,67352.22,alberta,Full-time
+C01385,53,84063.86,Quebec,Full-time
+C01378,57,69119.87,Quebec,Full-time
+C-01803,37,88140.17, Ontario ,Contractor
+C01015,53,39574.04,Ont.,Unemployed
+C01093,47,38959.9,British Columbia,Self-employed
+C01772,43,nan,Ontario,Full-time
+C01195,21,"$118,155.50",quebec,Full-time
+C01063,66,51395.17,Ontario,Full-time
+C01818,56,148032.1,British Columbia,Full-time
+C01570,64,42316 USD,Ontario,Full-time
+C01711,64,59374.13,Québec,Full-time
+C01161,56,80030 USD,Ontario, full-time 
+C01359,33,"122,762",QC,Contract
+C-01810,27,"104,261",Ont.,Part-time
+C01627,38,"186,700",British Columbia,Full-time
+C01685,49,106880.66,British Columbia,full-time
+C01510,59,34455 CAD,British Columbia,Full-time
+C01027,29,46574.32, Ontario ,FT
+C01009,31,"$67,954.25",Alberta,Self-employed
+C01496,37,"91,172",Ontario,Full-time
+C01223,42,"$40,278.59",Ontario,Self-employed
+C01618,unknown,unknown,Quebec,Unemployed
+C01641,69,48108.13,Manitoba,Self-employed
+C01716,60,"37,721",Ontario,Self-employed
+C01758,68,42230 USD,Ontario,Self Employed
+C01748,65,124263.15,Ontario,Self-employed
+1393,26,79051.23,British Columbia,Self-employed
+cust_01154,58,65505.2,Quebec,Full-time
+C01382,21,187087.2,Alberta,full-time
+C01399,28,68291 USD,Ontario,Full-time
+C01101,121,"66,199",Ontario,Part-time
+C01438,52,68072.2,Manitoba,Full-time
+C01757,68,32467 USD,MANITOBA,Self-employed
+C01821,47,126884.75, Alberta ,Part-time
+C01389,60,86886.54,Quebec,self-employed
+C01683,45,53849.39,British Columbia,Full-time
+C01145,22,56963.29,Quebec,Full-time
+C01521,33,"50,494",quebec, full-time 
+ C01608 ,69,"161,265",ALBERTA,Self-employed
+C01380,70,149070.35,Ontario,unemployed
+C01125,43,"$78,881.42",Ontario,Part-time
+C01248,30,"72,064",ontario,Full-time
+C01485,35,63881.53,Quebec,Contract
+C01423,25,127783.71,Alberta,Full-time
+01196,72,"$92,371.21",Ontario,Full-time
+C01284,74,94934.86,Alberta,Full-time
+C01338,22,175754.49,Ontario,Full-time
+C01834,40,51913.22,Quebec,Self-employed
+C01444,63,83000.58, Ontario ,Full-time
+1409,57,57494 CAD,ontario,Full-time
+C01231,32,66666.24,Quebec, full-time 
+C01655,N/A,83230.52,British Columbia ,Contract
+C01411,65,83522.8,Quebec,Full-time
+C01208,72,106033.66,Ontario,Full-time
+C01062,75,"$64,436.72",Quebec,Full-time
+C01732,38, 116208 ,Alberta,Full-time
+C01206,36,42154.52,British Columbia,Full-time
+C01504,25,49367 USD,Alberta,Full-time
+C01603,25,68445.28, Ontario ,Full-time
+C01397,47,76281 CAD,Alberta,Part-time
+C01112,46,110381.58,Quebec,Full-time
+C01586,51,86726 USD,British Columbia,Full-time
+C01820,31,143214.47,Quebec,Contract
+C01739,68,156478.6,Quebec,Full-time
+01785,73,59152.18,British Columbia ,Contract
+C01518,65,"72,921",Ontario,Self-employed
+C01025,67,57690.46,Quebec,Part-time
+C01626,50,82007 CAD,Manitoba,Full-time
+C01630,23,30910.48,Alberta,PT
+C-01825,27,60914.87,Ontario,Full-time
+C01330,56,155156.07,British Columbia ,Full-time
+C01546,23,55781.43,Quebec,Self-employed
+C01712,42,99913 CAD,Quebec,Full-time
+1405,56,32419.77,ON,Contract
+C01528,65,66838.47,Ontario,Full-time
+C01735,72,120991.85,Ontario,Self-employed
+C01533,36,129436.21,Ontario,Self-employed
+C01520,56,38020.17,alberta,full-time
+C01425,36,52466.32,Quebec,UNEMPLOYED
+C01623,44,67310.44,British Columbia,Part-time
+C01720,49,54393.04,Ontario,Full-time
+C01305,63,"55,528",British Columbia ,Self employed 
+C01406,54,54747.73,Ont.,Part-time
+C01372,40,34351.04,Ontario,Contract
+C01326,58,124922 CAD,quebec,Full-time
+C01155,31,56906.77,Alberta,Unemployed
+cust_01209,25,87533.24,QC,Contract
+C01158,24,90578.06,Manitoba,Self-employed
+C01814,37,,Ontario,Full-time
+C01429,28,67699.76,British Columbia,Full-time
+C01127,25,102175.36,British Columbia,Part-time
+C01541,70, 110737 ,Quebec,Part-time
+C01696,56,"79,627",Quebec,Part-time
+C01131,37,115242.8,Ontario,Full-time
+C01784,25,"53,757",Ontario,UNEMPLOYED
+C01808,53,n/a,Quebec,Full Time
+C01037,53,24971.75,ontario,Self-employed
+C01201,69,66103.74,Ontario,Contract
+C01688,58,53659.52,B.C.,Part-time
+C01156,26,83936.42,Ontario,Full-time
+C01842,34,88957 USD, Ontario ,Self-employed
+C01079,42,"31,208",Quebec,Part Time
+C01182,61,58438.38,Ontario,Full-time
+C01774,42,134815 CAD,Ontario,Part-time
+C01197,52,"49,134", Quebec ,Self-employed
+C01695,49,45248.02,Ontario,full-time
+C01178,73,98728.9,Ontario,full-time
+C01237,71,66662.9,Québec,Full-time
+C01032,26,74651.67,ontario,Full-time
+C01060,24,49340.48,B.C.,Self-employed
+C01126,51,128506.96,Quebec,Full-time
+C01723,36,51403.26,British Columbia,Full-time
+C01022,50,60968.13,Ontario,Unemployed
+C01724,64,64278.25,British Columbia,Part-time
+C01796,27,"$33,427.64",Ontario,Full-time
+C01226,70,73678.44,Ont.,Contract
+C01787,41, 164425 ,QUEBEC, full-time 
+C01523,33,68109 USD,Ontario,Part-time
+C01553,75,"109,558",Manitoba,contract
+C01557,57,69346.06,British Columbia,CONTRACT
+C01684,48,134476.58,British Columbia,SELF
+1421,65,70701.56, Quebec ,Part-time
+C01569,62,45642 CAD,Ontario,Contract
+1594,21,66157.96,British Columbia,Contract
+C01669,64,91272.57,Alberta,contract
+C01368,47,68974.37,Ont.,Full-time
+C01575,48,59673.31,Ontario,Full-time
+C01100,60,87845 USD,Ontario,Self-employed
+C01085,74,33805.66,QUEBEC,Part-time
+01497,24,46192 USD,ON,Part-time
+C-01054,66,51953.25,Alberta,Part-time
+C01452,22,26839.69,Quebec,Part-time
+C01656,43,52703 CAD,Alberta,Part-time
+ C01737 ,72,unknown,Quebec,Self employed 
+C01448,75,,Quebec,unemployed
+C01328,46,480851.77,Alberta,Self Employed
+C01561,70,69488 USD,Alberta,Part-time
+C01116,25,67187 CAD,Quebec,Full-time
+C01256,50,20723 USD,Ont.,Full-time
+C01129,60,49658 CAD,Ontario,Self-employed
+1415,22,nan,British Columbia,Full-time
+C01682,37,"$151,408.56",Ontario,Part-time
+C01323,33,,british columbia,Full-time
+C01500,45,58042.8,Ontario,Full-time
+C01123,42,62429 CAD,Ontario,Full-time
+ C01281 ,74,74779.54,Quebec,Self-employed
+C01514,121,51692.42,Ontario,Full-time
+C01087,30,81218.08,Ontario,Full-time
+C01051,N/A,95392.83,Quebec,Self-employed
+C01534,30,178537 CAD,Québec,Full-time
+C01819,31,,Quebec,Self-employed
+C01134,39,81662.86,MANITOBA,Contractor
+C01194,73,41406.9,British Columbia,PT
+C01462,51,"61,992",Quebec,Full-time
+C01571,35,95293.03,ALBERTA,Full-time
+1574,57,41048.16,Ontario,Self-employed
+C01554,28,"$76,138.34",Ont.,Unemployed
+C01644,45,50476.76,Alberta,Full-time
+C01849,53,516974.03,Ontario,Self-employed
+C01205,58,65205.91,ontario,UNEMPLOYED
+C01043,72,87314.74,Ont.,Full-time
+C01387,66, 86217 ,British Columbia,Full-time
+C01473,68,90574 CAD,Alberta,Full-time
+C01187,73,98585.19,Ontario,Full-time
+C01806,21,34546.37,Alberta,full-time
+C01740,68,"62,048",Manitoba,Unemployed
+C01649,42,176967.1,Ontario,Full-time
+C01073,37,85083 CAD,Ontario,Full-time
+01611,72,76111.65,Quebec,Full-time
+C01002,60,52086.45,Manitoba,Full-time
+C01240,63,118799.49,Alberta,Full-time
+C01638,70,67211.53,British Columbia,Full-time
+C01632,43,134083.84,Ontario,Part-time
+C01176,34,49940.62,Quebec,Full Time
+C01055,45,61540 USD,Quebec,self-employed
+C01192,73,129594.68,Ontario,Contract
+ C01543 ,49,"$87,731.74",QC,Part-time
+C01088,44,50932.46,Quebec,Full-time
+C01582,21,"$58,041.36", Ontario ,Full-time
+C01279,50,"69,852",Quebec,Full-time
+C01081,55,29189.92,ontario,Self-employed
+C01427,57,58138.57,Ontario,Self-employed
+C01567,40,39511.04,AB,contract
+C01519,57,80824.32,British Columbia,Self-employed
+C01056,48,75491.85,Ontario,Full-time
+C01363,52,179880.75,Manitoba,Contract
+C01778,64,"54,174",Ontario,Full-time
+C01222,70,95384.39,Quebec,Full-time
+C01016,63,86453.55,Quebec,Full-time
+C01782,23,"33,449",Quebec,Part-time
+C01225,61,"125,773",British Columbia,full-time
+C01190,73,114068.88,Ontario,Full-time
+C01313,42,61652.2,Alberta,Contract
+1311,29,"84,127",AB,Full-time
+C01676,45,64058 USD,Quebec,Contract
+C01754,68,"$138,404.44", Alberta ,Full-time
+C01669,64,91272.57,Alberta,contract
+C01100,60,87845 USD,Ontario,Self-employed
+C01804,74,120489 CAD,Quebec,Full-time
+C01713,54,"$109,060.32",QC,PT
+C01169,75,74559 CAD,British Columbia,Full-time
+1424,74,113666.67,ontario,full-time
+C01038,44,127397.99,Ontario,Part-time
+C01287,38,132872.63,QC,Full-time
+C01376,54,,ON,Contract
+C01215,25,93609 USD,Alberta, full-time 
+C01262,62,"70,129",Ontario,Full-time
+C01671,75,67783.02,Ontario,Full-time
+C01139,54,66281.84,Ontario,Full-time
+C01597,38,29830 USD,ALBERTA,FT
+01759,64,59322 CAD,Quebec,part-time
+C01241,63,63009.12,QUEBEC,Full-time
+C01291,45,30522.1,British Columbia,Full-time
+1137,22,66204.98,Ontario,Full-time
+C01540,57,,Ontario,Self-employed
+C01245,21,76101 CAD,Manitoba,Full-time
+C01358,51,"$35,739.33",Ontario,Part-time
+C01120,48,170013.45,Ont.,Full-time
+C01042,39,48107.93,Quebec,Contract
+C01004,63,77018.02,QUEBEC,Full-time
+ C01035 ,26,"$99,935.44",Quebec,Part-time
+C01236,68,118187.72,British Columbia,Full-time
+C01103,46,77894.59,Ontario,Unemployed
+C01794,47, 22000 ,Quebec,Full-time
+cust_01466,60,nan,Quebec,Contract
+C01729,60,100019 CAD,ON,Part-time
+C01110,73,65533.37,Ontario,Full-time
+C01805,,117538.83,British Columbia,Part-time
+C01348,25,52350.94,Quebec,Self-employed
+C01612,59,46505.25, Alberta ,Self employed 
+1591,75,46079.14,ONTARIO,Unemployed
+C-01184,49,116673.48,British Columbia,Full-time
+C01613,74,,Quebec,Full-time
+01290,72,"$36,071.18",Quebec,Full-time
+C01719,62,88491.91,Quebec,Full-time
+C01097,34,"$82,918.69", Quebec ,Full-time
+C01709,40,"$30,801.12",Ontario,Contract
+C01797,39,55413.01,Ontario,Full-time
+C01255,50,84325.23,Alberta,Part-time
+C01272,36,83722.87,Ontario,Self-employed
+C01128,70,81065 CAD,Ontario,Full-time
+01765,38,n/a,Alberta,Self-employed
+C01722,50,"57,688",Alberta,Full-time
+C01146,28,49694.44,Alberta,Part-time
+C01714,59,nan,Quebec,Full-time
+C01616,57,59446.42,Ontario,Full-time
+C01386,53,51036.96,Quebec,Contract
+C01257,67,59879.15,Quebec,Full-time
+C01274,121,149354.46,ON,Full-time
+C01540,57,,Ontario,Self-employed
+C01490,67,"$536,283.69",Ontario,Self-employed
+C01092,17,93976.43,ontario,FT
+C01562,52,156445.22,quebec,Full-time
+C01364,46,52492.39,Quebec,Contract
+C01747,49,34038 USD,Alberta,Contract
+C01008,68,86137.4,Ontario, full-time 
+C01555,30,61294.73,Alberta,Full-time
+C01388,75,63351.37, Alberta ,Self-employed
+C01182,61,58438.38,Ontario,Full-time
+C01811,30,35338.63,ONTARIO,Full-time
+C01211,64,63343.28,Quebec,Full-time
+C01764,N/A,66124 USD,Québec,Full-time
+C01266,54,"$47,042.78",Ontario,SELF
+C01610,64,"$33,807.80",Ont.,Full-time
+C01251,41,77760 CAD,Ontario,Full-time
+01598,36,65350.24,Ontario,Full Time
+C01422,42,71271.61,Ont.,Full-time
+C01768,24,32355.3,ontario,Self-employed
+C01670,29,52806 USD,Quebec, full-time 
+C01646,66,104048.96,ON,Full-time
+C01584,59,44477.31,Quebec,Full Time
+C01191,60,"$64,823.92",Alberta,FT
+C01324,37,72866.66,Quebec,Contract
+C01150,23,87299.37, Alberta ,full-time
+C01850,24,unknown,Ontario, full-time 
+C01141,57,n/a,alberta,Part-time
+C01697,40,157902.31,Alberta,Full-time
+C01704,22,"582,403",Quebec,Self-employed
+C01065,25,62643 CAD,British Columbia,Full Time
+C01755,70,260000.0, Manitoba ,Part-time
+C01449,66,83432.41,QC,FT
+C01662,56,152937.66,Ontario,Part-time
+C01383,28,40192 USD,quebec,Unemployed
+C01159,40,83925.98,ALBERTA,Full-time
+C01819,31,,Quebec,Self-employed
+C01400,24,87552.83,Ontario,Full-time
+C01012,69,"$135,071.38",Alberta,Self-employed
+C01013,49,"40,247",ONTARIO,Self-employed
+C01046,70,35007 CAD,Ontario,Contract
+C01742,52,124491.67,British Columbia,Full-time
+C01529,49,"$47,535.61",Ontario,Full-time
+01356,38,32368.03,Ontario,Contract
+C01041,34,"$78,878.59",QC,Part-time
+ C01766 ,53,"$57,125.66",ONTARIO,Part Time
+C01525,58,"$92,108.42",Quebec,Unemployed
+C01345,63,108350.75,Quebec,Full-time
+C01773,35,"$82,603.06",QC,full-time
+C01288,24,51732.78,Ont.,Self-employed
+C01461,51,"$134,742.32",Quebec,Full-time
+01235,56,34330.11,Ontario,Part Time
+C01107,38,30127 USD,Alberta, full-time 
+C01832,35,61013 CAD,Ontario,Self-employed
+C01588,62,77854 CAD,Manitoba,Part-time
+C01604,23,123956.25,QC,Part-time
+C01344,28,"$65,462.94",ontario,Full-time
+C01036,30,58380.26,Ontario,Full-time
+C01600,21,110147 CAD, Manitoba ,Full-time
+C01503,26,unknown,Alberta,Full-time
+C01384,24,72873 CAD,British Columbia,Part-time
+C01157,24,51305 USD,Ontario,Full-time
+C01151,23,nan,British Columbia,Full-time
+C01132,52,"81,964",Alberta,Full-time
+C01726,65,unknown,Alberta,Full-time
+C01658,58,50279.27,Quebec,Contract
+C01321,121,192220.36,Quebec,Full-time
+C01214,150,131080.04,British Columbia,Contract
+C01011,32,"$76,323.65",Ont.,Self-employed
+C01277,39,60021.35,Quebec,Self-employed
+C01807,30,583041.49,Alberta,Self-employed
+C01751,68, 77554 ,ON,Contract
+C01839,38,"76,359",Quebec,Full-time
+C01108,72,107244.43, Ontario ,Full-time
+C01315,23,"55,928",Québec,Part-time
+C01826,46,73584.72,Ont.,Contract
+C01563,49,"$179,637.53",Ontario,Full-time
+C01770,62,166166.91,Quebec,Unemployed
+C01642,63,,Quebec,Unemployed
+C01346,42,"62,262",Alberta, full-time 
+ C01347 ,25,30825.53,British Columbia,Full-time
+01454,42,86660.57,Alberta,Full-time
+C01095,45,,Alberta,Full-time
+C01620,27,71053.4,Alberta,Unemployed
+C01703,44,"106,348",B.C.,FT
+C01476,73,61458 USD,ontario,Self-employed
+C01579,71,47935.32,Alberta,Full-time
+C01589,23,61530.99,ontario,Part-time
+C01628,65,145720.95,Ontario,Self-employed
+C01537,21,109062.47, Alberta ,Full-time
+C01407,24,"$61,463.30",Ontario,Full-time
+C01404,34,135938.88,Ontario,Full-time
+C01691,54,77790.86,Ontario,Unemployed
+cust_01064,61,58318.18,Alberta,Full-time
+C01082,75,80969.14,British Columbia,Full-time
+C01319,28,"$138,999.77",British Columbia,Unemployed
+C01733,59,63701.24,ON,Contractor
+C01573,55,43596.01,Ontario,Full-time
+C01171,26,"54,403",Ontario,Full-time
+C01278,49,105147.2,Ontario,Full-time
+C01577,43,79180.61,Alberta,Full-time
+C01551,39,60370.41,Quebec,Full-time
+C01374,63,78500.3,British Columbia,Contract
+C01756,35,221628.07,Quebec,Unemployed
+C01792,69,53709.41,British Columbia ,Full-time
+C01587,22,,Ontario,FT
+C01249,29,"$128,440.16",Quebec,Part-time
+C01300,58,114634.19,Ontario,Part-time
+C01303,36,37483.75,Ontario,Full-time
+C01809,62,"30,424",British Columbia,Full-time
+C01559,29,114943.03,Ontario,No job
+1494,72,"204,096",Ontario,Full-time
+C01005,26,,Ont.,Full-time
+C01565,29,48721.42,Ontario,Part-time
+C01489,57,59880 USD,British Columbia,Full-time
+C01512,30,75965.39,British Columbia,Self-employed
+C01639,37,65062.89,Quebec,Full-time
+1545,,nan,British Columbia,Full-time
+C01768,24,32355.3,ontario,Self-employed
+C01220,41,87924.35,Ontario,Full-time
+C01138,40,79347.79,Ontario,Self-employed
+C01780,26,,Alberta,Self-employed
+C01798,45,60053.76,British Columbia,Full-time
+C01047,70,"$40,546.27",ALBERTA,CONTRACT
+C01665,43,54144.44,Ontario,Full-time
+C01498,69,64449.52,British Columbia,SELF
+C01351,38,101518.38,BC,PT
+C01556,43,"$120,967.24",British Columbia,Full-time
+C01395,72,89634 CAD,British Columbia,Part-time
+C01437,45,257502.04,Ontario,Contract
+C01566,23,75562.7,British Columbia,Full-time
+C01465,51,60712 CAD,Quebec,Self-employed
+C01456,68,93202.69,Ontario, full-time 
+C01342,67,126063.44,Quebec,Self-employed
+C01181,43,62950 CAD, Ontario ,Self-employed
+C01517,24,83409.27,Quebec,Self-employed
+C01839,38,"76,359",Quebec,Full-time
+C01717,35,59810.82,Alberta,Unemployed
+C01327,71,98128.16,Ontario,Unemployed
+C01066,47,42519 USD,ontario,Full Time
+C01699,50,64851.44,British Columbia,full-time
+C01170,29,84251.56,Ontario,Full-time
+C01652,unknown,46655.83,British Columbia,Full-time
+C01371,50,62723.89,British Columbia ,Full-time
+C01010,57, 78887 ,alberta,Full-time
+C01663,59,109840.03,ON,No job
+C01539,38,121451.04,Ontario,Unemployed
+C01179,51,"$62,120.78",Ontario,Self-employed
+1791,23,48806.41,ON,Part-time
+C01812,27,"$40,601.42",AB,Part-time
+C01164,0,116163.47,Manitoba,Full-time
+C01590,46,125394.78,Ontario,Contract
+C01827,43,65801 CAD,Ontario,Part-time
+C01532,61,44738.23,Ontario,Full-time
+C01218,32,176183.82,Ontario,Full-time
+C01664,44,87346.25, Manitoba ,Contractor
+C01592,65,"$95,782.50",Ontario,Self-employed
+C01715,51,"42,954",Ontario,Part-time
+C01802,53,85470.49,British Columbia,Self-employed
+C01094,22,113573.58,British Columbia,Contractor
+C01309,59,145595.41,Ontario,Full-time
+C01845,38,204741.78,Ontario,Contract
+C01547,21,"$61,242.08",ALBERTA,Full-time
+ C01679 ,35,"$74,321.25",Ontario,Contractor
+C01111,53,87141 CAD,Alberta,Part-time
+C01822,62,225422.33,Quebec,Full-time
+C01721,73,41506.4,Quebec,full-time
+C01840,51,"$79,450.34",QUEBEC,Full-time
+C01121,30,65994.12,Alberta,Self-employed
+C01143,31,469745.24,alberta,Self-employed
+C01396,46,93659.33,Ontario,Self-employed
+C01296,59,n/a,British Columbia,Full-time
+C01377,61,117538.68,Alberta,Full-time
+C01693,26,,Ontario,Part-time
+C01513,26,75281.42,Ontario,Full-time
+C01336,44,69484.69,Ontario,Unemployed
+C01457,40,58961 CAD,Quebec,Contract
+C01788,29,unknown,Quebec,Full-time
+C01177,67,35357.63,quebec,Full-time
+1232,68,,Ontario,Part-time
+C01302,47, 58151 ,Alberta,Self-employed
+C01749,73,46089.02,Ontario,Full-time
+C01668,39,75272.6,British Columbia,Full-time
+C01451,0,"$131,760.32",Ontario,Part-time
+C01781,41, 79923 ,Quebec,Part-time
+C01186,33, 176191 ,British Columbia, full-time 
+C01659,75,486488.97,ONTARIO,CONTRACT
+C01460,38,33033.83,Alberta,Full-time
+C01472,23,64931 CAD,Ontario,Self-employed
+C01341,42,35049.62,AB,Part-time
+C01069,65,176598.96,British Columbia,Part-time
+C01343,61,42419.98,ontario,Part-time
+C01702,67,"70,639",Ontario,Self Employed
+C01105,65,76506.6,Ontario,Full-time
+C01522,56,167592.89,British Columbia,contract
+C01750,40,67715.98,ontario,Full-time
+C01746,70,91081.84,BC,Part-time
+C01167,25,126870.23,Ontario,Self-employed
+C01660,21,133054.08,Ontario,Contract
+C-01731,55,28257 USD, Quebec ,Self-employed
+C01014,27,52756.38,Alberta,Part-time
+C01690,42,,Ontario,Full-time
+C01633,42,63628 CAD,British Columbia,Full-time
+C01710,29,120833.81,British Columbia,Full-time
+C01224,68,52141.26,Manitoba,Part-time
+C01239,30,114719.76,Manitoba,Part-time
+C01549,60,"$101,081.23",Ontario,Full-time
+C01229,66,43885 CAD,Ontario,Self-employed
+C01581,44,46853.24,AB,Full-time
+C01268,75,56717.41,ALBERTA,Full-time
+C01353,70,unknown,British Columbia,Full-time
+C01445,28,60344.08,British Columbia ,Full-time
+01631,37,198411.18,Ontario,Self-employed
+C01130,-5,88367.73,quebec,Full-time
+C01595,47,73326.0,Québec,Full-time
+C01692,49,93682.06,Ontario, full-time 
+cust_01398,68,133241.62,Ontario,Full-time
+C01068,67,102810.14,Ontario,Full-time
+1838,22,53627.1,Quebec,Part-time
+C01463,150,"$78,386.50",Quebec,Full-time
+C01558,48,186640.6,Quebec,Full-time
+C01736,50,62527.39,alberta,Full-time
+C01298,39,"66,029", Alberta ,full-time
+cust_01408,75,66124.97,ON,Contract
+C01242,38,86454 CAD,Quebec,Full-time
+1837,36,,Alberta,PT
+C01705,58,42606.89,Ontario,Full-time
+C01477,51,42591.09,Ontario,Contract
+C01666,57,135832.36,british columbia,Self-employed
+C01760,66,36406.44,QUEBEC, full-time 
+C01700,32,31293 USD,Alberta,Self-employed
+C01455,34,150139.46,Ontario,Unemployed
+C01435,69,"86,886",Ontario,Self-employed
+C01606,65,"$50,629.03",Ontario,Self-employed
+C01636,35,37930 CAD,Ontario,Full-time
+01680,39,74167.22,Manitoba,Full-time
+cust_01572,55,74889.8,Alberta,Full-time
+ C01049 ,33,52934.07,British Columbia,Part-time
+C01417,71,53599.13,British Columbia ,unemployed
+C01394,50,unknown,Manitoba,Self-employed
+C01203,48,91108 CAD,Manitoba,Self-employed
+C01564,57,111324.12,British Columbia,Full-time
+C01118,61,"$76,109.41",Alberta,Full-time
+C01447,57,"$47,104.84",Ontario,Contract
+C01317,-5,106298.0, Ontario ,contract
+C01071,37,22000.0,Alberta,FT
+C01320,57,76012.91,Manitoba,Unemployed
+C01379,27,94374.89,Ontario,Full-time
+C01021,22, 39760 ,Québec,Part-time
+C01470,68,unknown,B.C.,Unemployed
+cust_01210,27,"64,502",Alberta,FT
+C01267,57,69583.24,British Columbia,Full-time
+C01576,,51696.26,British Columbia,Full-time
+C01098,64,72867.95,British Columbia,PT
+C01090,34,67844.65,BC,Full-time
+1172,43,122481.83,quebec,Self-employed
+C01471,25,52672.81,British Columbia,Contract
+C01474,37,102633.0,Ontario,self-employed
+C01273,74,"$77,758.32", Ontario , full-time 
+C01329,54,60941.1,Quebec,FT
+C01621,73,125787.52,ON,Full-time
+C01033,62, 114859 ,British Columbia,Full-time
+C01637,38,65796.57,Ontario,Full-time
+C01503,26,unknown,Alberta,Full-time
+C01183,42,88603.33,Ontario,Full-time
+C01099,36,67583 CAD,MB,Full-time
+C01509,42,46767 CAD,British Columbia ,Part-time
+C01023,23,"49,652",British Columbia,part-time
+C01605,23,107200.02,QUEBEC, full-time 
+C01039,21,45086.72,Quebec,Full-time
+C01645,23,58585.07,Quebec,Full-time
+01096,72,69104.4,British Columbia,Full-time
+C01354,23,102115.65,Ontario,Self-employed
+C01548,27,66481.26,Ontario,Full-time
+1265,25,80837.09,Ontario,Full-time
+C01340,60,64183.44,Quebec,Part-time
+C01420,33,75900.16,Quebec, full-time 
+C01086,53,95876.4,Ontario,Part-time
+C01370,49,78319 CAD,Alberta,Full-time
+C01727,25,171580 USD,British Columbia,Contract
+C01270,28,44790.93,Ontario,Full-time
+1419,34,60814.71,MB,Full Time
+C01402,23,68233 USD,Ontario,Self-employed
+C01734,36,35728 CAD,ONTARIO,Part Time
+01230,29,121404 CAD,Ontario,Full-time
+C01034,51,33114 USD,British Columbia,Full-time
+C01708,48,"180,252",MB,Self Employed
+1433,22,107982.57, Alberta ,Full Time
+C01216,68,46950.98,Alberta,Contract
+C01831,27,62904.15,ON,contract
+C01365,60,55839.42,Québec,Full-time
+C01360,52,48852 USD,ONTARIO,Full-time
+C01271,44,77932.31,Ontario,Full-time
+C01847,28,n/a, Quebec ,Full-time
+C01070,51,,ALBERTA,Full-time
+C01602,29,132016.41,Ontario,Unemployed
+C01515,49,"80,694",Ontario,Self-employed
+C01020,60,"$32,515.15",British Columbia,unemployed
+C01580,52,"113,384",Manitoba,Self-employed
+01501,64,"$113,514.91",Ontario,full-time
+C01189,44,82364.54,Alberta,Contract
+C01113,29,68447.09,QUEBEC,Self-employed
+cust_01308,38,"$63,067.22",Ontario,Full-time
+C01479,63,90925 CAD,Ontario,Full-time
+C01253,37,91930.14,Quebec,Contract
+C01335,64,63335.2,ONTARIO,Contract
+C01848,23,88943.44,Ontario,Full-time
+C01044,32,"89,403",Ontario,Unemployed
+C01836,37,51251.5,Manitoba,Contract
+C01067,50,84851.5,Ontario,Self-employed
+C01162,52,139910.44,quebec,Self-employed
+C01725,67,"$41,200.54",Alberta,Self-employed
+C01813,48,129199.75,alberta,Full-time
+C01677,59,58851.26,british columbia,Full-time
+C01789,61,60964.77,Ontario,Unemployed
+C01707,24,"107,840",British Columbia,Full-time
+C01801,62,63722.01,Ontario,Self employed 
+C01392,26,116447.25,Alberta,Self-employed
+C01527,30,45788.34,Alberta,Full-time
+C01764,N/A,66124 USD,Québec,Full-time
+1140,36,107614 CAD,Ontario,Full-time
+C01076,47,460741 CAD,Alberta,Self-employed
+C01080,26,"$146,367.86",British Columbia,Contract
+C01535,17,"68,962",British Columbia,CONTRACT
+01059,39,56196 USD,Manitoba,Full-time
+C01614,71,36132.63,British Columbia,Contract
+C01366,150,129401.4,Ontario,Part-time
+C01289,54,"$72,287.53",ON,Full Time
+C01846,35,145180.93,B.C.,Full-time
+C01074,61,82822.6,British Columbia,Full-time
+C01260,59,25069.35,Alberta,Full-time
+C01312,30,365305.27,Alberta,Full-time
+C01672,50,69373.83,Ont.,FT
+C01217,28,87863.63,Ontario,Full-time
+C01292,58,97513.9,manitoba,full-time
+C01227,28,"$49,212.05",Ontario,Full-time
+C01468,24,77548.0,Quebec,Full-time
+C01050,67,412918.46,ON,Self-employed
+1153,46,"$72,425.41",Alberta,Full-time
+C01650,35,68517.28,Ontario,Unemployed
+C01482,56,117582.13,Ontario,full-time
+C01293,71,107952.91,Quebec,Full-time
+C01516,63,42643.44,Alberta,Part-time
+C01246,37,unknown,British Columbia,Unemployed
+C01297,44,"$168,772.23",Ontario,Unemployed
+C01250,34,52886.19,Ontario,Part-time
+C01352,58,73991.79,Québec,Full-time
+C01362,62,121901.98,Manitoba,Full-time
+C01661,29,78351 CAD,Ontario,Self-employed
+C01414,66,134562.08,Alberta,Full-time
+C01464,62,422994.8,Ontario,Full-time
+C01048,46,62744.88,Ontario,Full-time
+C01117,38,65274.47,Ontario,Self-employed
+C01202,57,"43,487",Ontario,Unemployed
+C01763,25,81787.37,Ontario,Full-time
+1018,64,,Ontario,Full-time
+C01829,63,91807.78,manitoba,Part-time
+C01625,48,72061.19,Ontario,Full-time
+C01325,57,53992.84, Ontario ,Full-time
+cust_01026,60,"91,834",Quebec,Full-time
+C01295,25,n/a,British Columbia,Self-employed
+C01817,64,397500.46,ALBERTA,Part-time
+C01418,71,71133.04,Ont.,Part-time
+C01624,48,83274 CAD,Québec,SELF
+C01136,48,"$68,067.65",British Columbia,Self-employed
+C01609,59,"$57,926.16",Ontario,Self-employed
+C01776,39,97024.51,quebec,Part-time
+C01762,0,70651.11,British Columbia,Unemployed
+C-01481,55,"$86,559.72",Ontario,Full-time
+C01028,74,"$84,817.91",British Columbia,Contract
+C01718,28,77187.67,British Columbia,Full-time
+C01439,53,29963.1,Ont.,Unemployed
+1643,59,72058.87,Quebec,Part-time
+C01029,41,151483.73,British Columbia,Full-time
+C01436,56,"$41,716.29",Ontario,Full-time
+C01413,39,30104.0,Ontario,Full-time
+C01629,72,96544.22,Ontario,Part-time
+C01542,67,76516.62,Ontario,Full-time
+C01334,70,87482 CAD,Quebec,Contract
+C01078,48,33443.59,Ontario,Part-time
+C01795,25,53214 USD,Quebec,Full-time
+C01391,50,78339.05,Ontario,Full-time
+C01258,34,54404.67,Ontario,Full-time
